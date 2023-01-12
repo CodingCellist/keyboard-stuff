@@ -1,0 +1,35 @@
+# LICENSE: CC-BY-SA 4.0  2022-2023 Thomas E. Hansen (CodingCellist)
+
+This file contains a reference for what Danish keycap symbols correspond to
+which symbol on a US layout.
+
+The top row shows the intended symbol, the bottom row shows the corresponding US
+symbol.
+
+The symbols are presented in the following, left-to-right order:
+  * no modifier
+  * Shift
+  * AltGr
+  * Shift+AltGr
+
+A space symbolises a blank/no-op/void/empty key in that position.
+
+
++------+------+------+------+------+------+------+------+------+------+------+------+------+
+| ½§   | 1!   | 2"@  | 3#£  | 4¤$  | 5%€  | 6&   | 7/{  | 8([  | 9)]  | 0=}  | +?   | ´`|  |
+|      |      |      |      |      |      |      |      |      |      |      |      |      |
+| `~   | 1!   | 2@   | 3#   | 4$   | 5%   | 6^   | 7&   | 8*   | 9(   | 0)   | -_   | =+   |
++------+------+------+------+------+------+------+------+------+------+------+------+------+
+| qQ   | wW   | eE€  | rR   | tT   | yY   | uU   | iI   | oO   | pP   | åÅ   | ¨^~  |
+|      |      |      |      |      |      |      |      |      |      |      |      |
+| qQ   | wW   | eE   | rR   | tT   | yY   | uU   | iI   | oO   | pP   | [{   | ]}   |
++------+------+------+------+------+------+------+------+------+------+------+------+
+| aA   | sS   | dD   | fF   | gG   | hH   | jJ   | kK   | lL   | æÆ   | øØ   | '*   |
+|      |      |      |      |      |      |      |      |      |      |      |      |
+| aA   | sS   | dD   | fF   | gG   | hH   | jJ   | kK   | lL   | ;:   | '"   | \|   |
++------+------+------+------+------+------+------+------+------+------+------+------+
+| <>\  | zZ   | xX   | cC   | vV   | bB   | nN   | mMµ  | ,;   | .:   | -_   |
+|      |      |      |      |      |      |      |      |      |      |      |
+| \|   | zZ   | xX   | cC   | vV   | bB   | nN   | mM   | ,<   | .>   | /?   |
++------+------+------+------+------+------+------+------+------+------+------+
+
