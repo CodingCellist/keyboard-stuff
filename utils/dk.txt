@@ -33,3 +33,6 @@ A space symbolises a blank/no-op/void/empty key in that position.
 | \|   | zZ   | xX   | cC   | vV   | bB   | nN   | mM   | ,<   | .>   | /?   |
 +------+------+------+------+------+------+------+------+------+------+------+
 
+
+/!\  N.B.: "<>\" maps to "Non-US \|"
+
