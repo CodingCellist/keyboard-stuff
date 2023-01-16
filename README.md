@@ -6,7 +6,7 @@ to what for a Danish layout.
 
 # LICENSE
 
-All code contained in this repository is licensed under the terms of the GPL-2.0
+All code contained in this repository is licensed under the terms of the MIT
 license, unless indicated otherwise in the files themselves.
 All non-code files, for example all the files in the `utils` directory, are
 licensed under the terms of the
