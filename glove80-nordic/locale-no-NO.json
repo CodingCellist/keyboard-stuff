@@ -1,0 +1,103 @@
+[
+  {
+    "baseName": "GRAVE",
+    "localeNames": ["NO_PIPE", "NO_BAR"],
+    "isOverrideNames": true,
+    "description": "NO Locale: | [Pipe] and § [Paragraph]",
+    "shortcut": "|"
+  },
+  {
+    "baseName": "MINUS",
+    "localeNames": ["NO_PLUS"],
+    "isOverrideNames": true,
+    "description": "NO Locale: + [Plus] and ? [Question mark]",
+    "shortcut": "+"
+  },
+  {
+    "baseName": "EQUAL",
+    "localeNames": ["NO_BACKSLASH", "NO_BSLH"],
+    "isOverrideNames": true,
+    "description": "NO Locale: \\ [Backslash] and ` [Grave] and ´ [Aigu]",
+    "shortcut": "\\"
+  },
+  {
+    "baseName": "E",
+    "localeNames": ["NO_E"],
+    "isOverrideNames": true,
+    "description": "NO Locale: e [e] and E [E] and € [Euro]",
+    "shortcut": "E"
+  },
+  {
+    "baseName": "LEFT_BRACKET",
+    "localeNames": ["NO_AA", "NO_A_RING"],
+    "isOverrideNames": true,
+    "description": "NO Locale: å [aa] and Å [AA]",
+    "shortcut": "å",
+    "symbol": "Å"
+  },
+  {
+    "baseName": "RIGHT_BRACKET",
+    "localeNames": ["NO_UMLA"],
+    "isOverrideNames": true,
+    "description": "NO Locale: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
+    "symbol": "¨"
+  },
+  {
+    "baseName": "SEMICOLON",
+    "localeNames": ["NO_OE", "NO_O_SLASH"],
+    "isOverrideNames": true,
+    "description": "NO Locale: ø [oe] and Ø [OE]",
+    "shortcut": "ø",
+    "symbol": "Ø"
+  },
+  {
+    "baseName": "SINGLE_QUOTE",
+    "localeNames": ["NO_AE"],
+    "isOverrideNames": true,
+    "description": "NO Locale: æ [ae] and Æ [AE]",
+    "shortcut": "æ",
+    "symbol": "Æ"
+  },
+  {
+    "baseName": "BACKSLASH",
+    "localeNames": ["NO_APOS", "NO_SQT"],
+    "isOverrideNames": true,
+    "description": "NO Locale: ' [Apostrophe] and * [Star]",
+    "shortcut": "'"
+  },
+  {
+    "baseName": "NON_US_BACKSLASH",
+    "localeNames": ["NO_LESS_THAN", "NO_LT"],
+    "isOverrideNames": true,
+    "description": "NO Locale: < [Less than] and > [Greater than]",
+    "shortcut": "<"
+  },
+  {
+    "baseName": "COMMA",
+    "localeNames": ["NO_COMMA"],
+    "isOverrideNames": true,
+    "description": "NO Locale: , [Comma] and ; [Semicolon]",
+    "shortcut": ","
+  },
+  {
+    "baseName": "PERIOD",
+    "localeNames": ["NO_PERIOD", "NO_DOT"],
+    "isOverrideNames": true,
+    "description": "NO Locale: . [Period] and : [Colon]",
+    "shortcut": "."
+  },
+  {
+    "baseName": "SLASH",
+    "localeNames": ["NO_MINUS"],
+    "isOverrideNames": true,
+    "description": "NO Locale: - [Minus] and _ [Underscore]",
+    "shortcut": "-"
+  },
+  {
+    "baseName": "RALT",
+    "localeNames": ["NO_ALT_GR", "NO_ALT_GRAPH"],
+    "isOverrideNames": false,
+    "description": "NO Locale: AltGr [AltGraph]",
+    "symbol" : "AltGr"
+  }
+]
