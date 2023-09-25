@@ -99,5 +99,75 @@
     "isOverrideNames": false,
     "description": "da-DK: AltGr [AltGraph]",
     "symbol" : "AltGr"
+  },
+  {
+    "baseName": "N1",
+    "localeNames": ["DA_NUMBER_1", "DA_N1"],
+    "isOverrideNames": true,
+    "description": "da-DK: 1 and ! [Exclamation mark]",
+    "shortcut": "1"
+  },
+  {
+    "baseName": "N2",
+    "localeNames": ["DA_NUMBER_2", "DA_N2"],
+    "isOverrideNames": true,
+    "description": "da-DK: 2 and \" [Quote (Double)] and @ [At sign]",
+    "shortcut": "2"
+  },
+  {
+    "baseName": "N3",
+    "localeNames": ["DA_NUMBER_3", "DA_N3"],
+    "isOverrideNames": true,
+    "description": "da-DK: 3 and # [Hash] and £ [Pounds]",
+    "shortcut": "3"
+  },
+  {
+    "baseName": "N4",
+    "localeNames": ["DA_NUMBER_4", "DA_N4"],
+    "isOverrideNames": true,
+    "description": "da-DK: 4 and ¤ [Currency symbol] and $ [Dollars]",
+    "shortcut": "4"
+  },
+  {
+    "baseName": "N5",
+    "localeNames": ["DA_NUMBER_5", "DA_N5"],
+    "isOverrideNames": true,
+    "description": "da-DK: 5 and % [Percent]",
+    "shortcut": "5"
+  },
+  {
+    "baseName": "N6",
+    "localeNames": ["DA_NUMBER_6", "DA_N6"],
+    "isOverrideNames": true,
+    "description": "da-DK: 6 and & [Ampersand]",
+    "shortcut": "6"
+  },
+  {
+    "baseName": "N7",
+    "localeNames": ["DA_NUMBER_7", "DA_N7"],
+    "isOverrideNames": true,
+    "description": "da-DK: 7 and / [Forward slash] and { [Left brace]",
+    "shortcut": "7"
+  },
+  {
+    "baseName": "N8",
+    "localeNames": ["DA_NUMBER_8", "DA_N8"],
+    "isOverrideNames": true,
+    "description": "da-DK: 8 and ( [Left parenthesis] and [ [Left bracket]",
+    "shortcut": "8"
+  },
+  {
+    "baseName": "N9",
+    "localeNames": ["DA_NUMBER_9", "DA_N9"],
+    "isOverrideNames": true,
+    "description": "da-DK: 9 and ) [Right parenthesis] and ] [Right bracket]",
+    "shortcut": "9"
+  },
+  {
+    "baseName": "N0",
+    "localeNames": ["DA_NUMBER_0", "DA_N0"],
+    "isOverrideNames": true,
+    "description": "da-DK: 0 and = [Equals sign] and } [Right brace]",
+    "shortcut": "0"
   }
 ]

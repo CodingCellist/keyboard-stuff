@@ -127,5 +127,75 @@
     "isOverrideNames": false,
     "description": "de-DE: AltGr [AltGraph]",
     "symbol" : "AltGr"
+  },
+  {
+    "baseName": "N1",
+    "localeNames": ["DE_NUMBER_1", "DE_N1"],
+    "isOverrideNames": true,
+    "description": "de-DE: 1 and ! [Exclamation mark]",
+    "shortcut": "1"
+  },
+  {
+    "baseName": "N2",
+    "localeNames": ["DE_NUMBER_2", "DE_N2"],
+    "isOverrideNames": true,
+    "description": "de-DE: 2 and \" [Quote (Double)] and ² [2 (Superscript)]",
+    "shortcut": "2"
+  },
+  {
+    "baseName": "N3",
+    "localeNames": ["DE_NUMBER_3", "DE_N3"],
+    "isOverrideNames": true,
+    "description": "de-DE: 3 and § [Paragraph] and ³ [3 (Superscript)]",
+    "shortcut": "3"
+  },
+  {
+    "baseName": "N4",
+    "localeNames": ["DE_NUMBER_4", "DE_N4"],
+    "isOverrideNames": true,
+    "description": "de-DE: 4 and $ [Dollars]",
+    "shortcut": "4"
+  },
+  {
+    "baseName": "N5",
+    "localeNames": ["DE_NUMBER_5", "DE_N5"],
+    "isOverrideNames": true,
+    "description": "de-DE: 5 and % [Percentage]",
+    "shortcut": "5"
+  },
+  {
+    "baseName": "N6",
+    "localeNames": ["DE_NUMBER_6", "DE_N6"],
+    "isOverrideNames": true,
+    "description": "de-DE: 6 and & [Ampersand]",
+    "shortcut": "6"
+  },
+  {
+    "baseName": "N7",
+    "localeNames": ["DE_NUMBER_7", "DE_N7"],
+    "isOverrideNames": true,
+    "description": "de-DE: 7 and / [Forward slash] and { [Left brace]",
+    "shortcut": "7"
+  },
+  {
+    "baseName": "N8",
+    "localeNames": ["DE_NUMBER_8", "DE_N8"],
+    "isOverrideNames": true,
+    "description": "de-DE: 8 and ( [Left parenthesis] and [ [Left bracket]",
+    "shortcut": "8"
+  },
+  {
+    "baseName": "N9",
+    "localeNames": ["DE_NUMBER_9", "DE_N9"],
+    "isOverrideNames": true,
+    "description": "de-DE: 9 and ) [Right parenthesis] and ] [Right bracket]",
+    "shortcut": "9"
+  },
+  {
+    "baseName": "N0",
+    "localeNames": ["DE_NUMBER_0", "DE_N0"],
+    "isOverrideNames": true,
+    "description": "de-DE: 0 and = [Equals sign] and } [Right brace]",
+    "shortcut": "0"
   }
 ]
