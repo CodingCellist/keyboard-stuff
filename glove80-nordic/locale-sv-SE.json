@@ -3,35 +3,35 @@
     "baseName": "GRAVE",
     "localeNames": ["SV_PARAGRAPH", "SV_SECTION"],
     "isOverrideNames": true,
-    "description": "SV Locale: § [Paragraph] and ½ [Half]",
+    "description": "sv-SE: § [Paragraph] and ½ [Half]",
     "shortcut": "|"
   },
   {
     "baseName": "MINUS",
     "localeNames": ["SV_PLUS"],
     "isOverrideNames": true,
-    "description": "SV Locale: + [Plus] and ? [Question mark] and \\ [Backslash]",
+    "description": "sv-SE: + [Plus] and ? [Question Mark] and \\ [Backslash]",
     "shortcut": "+"
   },
   {
     "baseName": "EQUAL",
     "localeNames": ["SV_AIGU", "SV_ACUTE"],
     "isOverrideNames": true,
-    "description": "SV Locale: ´ [Aigu] and ` [Grave]",
+    "description": "sv-SE: ´ [Aigu] and ` [Grave]",
     "shortcut": "´"
   },
   {
     "baseName": "E",
     "localeNames": ["SV_E"],
     "isOverrideNames": true,
-    "description": "SV Locale: e [e] and E [E] and € [Euro]",
+    "description": "sv-SE: e and E and € [Euro]",
     "shortcut": "E"
   },
   {
     "baseName": "LEFT_BRACKET",
     "localeNames": ["SV_AA", "SV_A_RING"],
     "isOverrideNames": true,
-    "description": "SV Locale: å [aa] and Å [AA]",
+    "description": "sv-SE: å [aa] and Å [AA]",
     "shortcut": "å",
     "symbol": "Å"
   },
@@ -39,14 +39,14 @@
     "baseName": "RIGHT_BRACKET",
     "localeNames": ["SV_UMLA"],
     "isOverrideNames": true,
-    "description": "SV Locale: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
+    "description": "sv-SE: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
     "symbol": "¨"
   },
   {
     "baseName": "SEMICOLON",
     "localeNames": ["SV_OE"],
     "isOverrideNames": true,
-    "description": "SV Locale: ö [oe] and Ö [OE]",
+    "description": "sv-SE: ö [oe] and Ö [OE]",
     "shortcut": "ö",
     "symbol": "Ö"
   },
@@ -54,7 +54,7 @@
     "baseName": "SINGLE_QUOTE",
     "localeNames": ["SV_AE"],
     "isOverrideNames": true,
-    "description": "SV Locale: ä [ae] and Ä [AE]",
+    "description": "sv-SE: ä [ae] and Ä [AE]",
     "shortcut": "ä",
     "symbol": "Ä"
   },
@@ -62,7 +62,7 @@
     "baseName": "BACKSLASH",
     "localeNames": ["SV_APOS", "SV_SQT"],
     "isOverrideNames": true,
-    "description": "SV Locale: ' [Apostrophe] and * [Star]",
+    "description": "sv-SE: ' [Apostrophe] and * [Star]",
     "shortcut": "'"
   },
 
@@ -70,35 +70,35 @@
     "baseName": "NON_US_BACKSLASH",
     "localeNames": ["SV_LESS_THAN", "SV_LT"],
     "isOverrideNames": true,
-    "description": "SV Locale: < [Less than] and > [Greater than] and | [Pipe]",
+    "description": "sv-SE: < [Less Than] and > [Greater Than] and | [Pipe]",
     "shortcut": "<"
   },
   {
     "baseName": "COMMA",
     "localeNames": ["SV_COMMA"],
     "isOverrideNames": true,
-    "description": "SV Locale: , [Comma] and ; [Semicolon]",
+    "description": "sv-SE: , [Comma] and ; [Semicolon]",
     "shortcut": ","
   },
   {
     "baseName": "PERIOD",
     "localeNames": ["SV_PERIOD", "SV_DOT"],
     "isOverrideNames": true,
-    "description": "SV Locale: . [Period] and : [Colon]",
+    "description": "sv-SE: . [Period] and : [Colon]",
     "shortcut": "."
   },
   {
     "baseName": "SLASH",
     "localeNames": ["SV_MINUS"],
     "isOverrideNames": true,
-    "description": "SV Locale: - [Minus] and _ [Underscore]",
+    "description": "sv-SE: - [Minus] and _ [Underscore]",
     "shortcut": "-"
   },
   {
     "baseName": "RALT",
     "localeNames": ["SV_ALT_GR", "SV_ALT_GRAPH"],
     "isOverrideNames": false,
-    "description": "SV Locale: AltGr [AltGraph]",
+    "description": "sv-SE: AltGr [AltGraph]",
     "symbol" : "AltGr"
   }
 ]

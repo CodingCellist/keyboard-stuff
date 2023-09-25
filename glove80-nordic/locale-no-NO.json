@@ -1,103 +1,103 @@
 [
   {
     "baseName": "GRAVE",
-    "localeNames": ["NO_PIPE", "NO_BAR"],
+    "localeNames": ["NB_PIPE", "NB_BAR"],
     "isOverrideNames": true,
-    "description": "NO Locale: | [Pipe] and § [Paragraph]",
+    "description": "nb-NO: | [Pipe] and § [Paragraph]",
     "shortcut": "|"
   },
   {
     "baseName": "MINUS",
-    "localeNames": ["NO_PLUS"],
+    "localeNames": ["NB_PLUS"],
     "isOverrideNames": true,
-    "description": "NO Locale: + [Plus] and ? [Question mark]",
+    "description": "nb-NO: + [Plus] and ? [Question Mark]",
     "shortcut": "+"
   },
   {
     "baseName": "EQUAL",
-    "localeNames": ["NO_BACKSLASH", "NO_BSLH"],
+    "localeNames": ["NB_BACKSLASH", "NB_BSLH"],
     "isOverrideNames": true,
-    "description": "NO Locale: \\ [Backslash] and ` [Grave] and ´ [Aigu]",
+    "description": "nb-NO: \\ [Backslash] and ` [Grave] and ´ [Aigu]",
     "shortcut": "\\"
   },
   {
     "baseName": "E",
-    "localeNames": ["NO_E"],
+    "localeNames": ["NB_E"],
     "isOverrideNames": true,
-    "description": "NO Locale: e [e] and E [E] and € [Euro]",
+    "description": "nb-NO: e and E and € [Euro]",
     "shortcut": "E"
   },
   {
     "baseName": "LEFT_BRACKET",
-    "localeNames": ["NO_AA", "NO_A_RING"],
+    "localeNames": ["NB_AA", "NB_A_RING"],
     "isOverrideNames": true,
-    "description": "NO Locale: å [aa] and Å [AA]",
+    "description": "nb-NO: å [aa] and Å [AA]",
     "shortcut": "å",
     "symbol": "Å"
   },
   {
     "baseName": "RIGHT_BRACKET",
-    "localeNames": ["NO_UMLA"],
+    "localeNames": ["NB_UMLA"],
     "isOverrideNames": true,
-    "description": "NO Locale: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
+    "description": "nb-NO: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
     "symbol": "¨"
   },
   {
     "baseName": "SEMICOLON",
-    "localeNames": ["NO_OE", "NO_O_SLASH"],
+    "localeNames": ["NB_OE", "NB_O_SLASH"],
     "isOverrideNames": true,
-    "description": "NO Locale: ø [oe] and Ø [OE]",
+    "description": "nb-NO: ø [oe] and Ø [OE]",
     "shortcut": "ø",
     "symbol": "Ø"
   },
   {
     "baseName": "SINGLE_QUOTE",
-    "localeNames": ["NO_AE"],
+    "localeNames": ["NB_AE"],
     "isOverrideNames": true,
-    "description": "NO Locale: æ [ae] and Æ [AE]",
+    "description": "nb-NO: æ [ae] and Æ [AE]",
     "shortcut": "æ",
     "symbol": "Æ"
   },
   {
     "baseName": "BACKSLASH",
-    "localeNames": ["NO_APOS", "NO_SQT"],
+    "localeNames": ["NB_APOS", "NB_SQT"],
     "isOverrideNames": true,
-    "description": "NO Locale: ' [Apostrophe] and * [Star]",
+    "description": "nb-NO: ' [Apostrophe] and * [Star]",
     "shortcut": "'"
   },
   {
     "baseName": "NON_US_BACKSLASH",
-    "localeNames": ["NO_LESS_THAN", "NO_LT"],
+    "localeNames": ["NB_LESS_THAN", "NB_LT"],
     "isOverrideNames": true,
-    "description": "NO Locale: < [Less than] and > [Greater than]",
+    "description": "nb-NO: < [Less Than] and > [Greater Than]",
     "shortcut": "<"
   },
   {
     "baseName": "COMMA",
-    "localeNames": ["NO_COMMA"],
+    "localeNames": ["NB_COMMA"],
     "isOverrideNames": true,
-    "description": "NO Locale: , [Comma] and ; [Semicolon]",
+    "description": "nb-NO: , [Comma] and ; [Semicolon]",
     "shortcut": ","
   },
   {
     "baseName": "PERIOD",
-    "localeNames": ["NO_PERIOD", "NO_DOT"],
+    "localeNames": ["NB_PERIOD", "NB_DOT"],
     "isOverrideNames": true,
-    "description": "NO Locale: . [Period] and : [Colon]",
+    "description": "nb-NO: . [Period] and : [Colon]",
     "shortcut": "."
   },
   {
     "baseName": "SLASH",
-    "localeNames": ["NO_MINUS"],
+    "localeNames": ["NB_MINUS"],
     "isOverrideNames": true,
-    "description": "NO Locale: - [Minus] and _ [Underscore]",
+    "description": "nb-NO: - [Minus] and _ [Underscore]",
     "shortcut": "-"
   },
   {
     "baseName": "RALT",
-    "localeNames": ["NO_ALT_GR", "NO_ALT_GRAPH"],
+    "localeNames": ["NB_ALT_GR", "NB_ALT_GRAPH"],
     "isOverrideNames": false,
-    "description": "NO Locale: AltGr [AltGraph]",
+    "description": "nb-NO: AltGr [AltGraph]",
     "symbol" : "AltGr"
   }
 ]

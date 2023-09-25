@@ -3,49 +3,49 @@
     "baseName": "GRAVE",
     "localeNames": ["DE_CARET", "DE_CIRCON"],
     "isOverrideNames": true,
-    "description": "DE Locale: ^ [Circonflex] and ° [Degree]",
+    "description": "de-DE: ^ [Circonflex] and ° [Degree]",
     "shortcut": "^"
   },
   {
     "baseName": "MINUS",
     "localeNames": ["DE_SCHARFES", "DE_ESZETT", "DE_SZ"],
     "isOverrideNames": true,
-    "description": "DE Locale: ß [Scharfes S] and ? [Question mark] and \\ [Backslash]",
+    "description": "de-DE: ß [Scharfes S] and ? [Question Mark] and \\ [Backslash]",
     "shortcut": "ß"
   },
   {
     "baseName": "EQUAL",
     "localeNames": ["DE_AIGU", "DE_ACUTE"],
     "isOverrideNames": true,
-    "description": "DE Locale: ´ [Aigu] and ` [Grave]",
+    "description": "de-DE: ´ [Aigu] and ` [Grave]",
     "shortcut": "´"
   },
   {
     "baseName": "Q",
     "localeNames": ["DE_Q"],
     "isOverrideNames": true,
-    "description": "DE Locale: Q and @ [At]",
+    "description": "de-DE: q and Q and @ [At]",
     "shortcut": "Q"
   },
   {
     "baseName": "E",
     "localeNames": ["DE_E"],
     "isOverrideNames": true,
-    "description": "DE Locale: E and € [Euro]",
+    "description": "de-DE: e and E and € [Euro]",
     "shortcut": "E"
   },
   {
     "baseName": "Z",
     "localeNames": ["DE_Y"],
     "isOverrideNames": true,
-    "description": "DE Locale: Y",
+    "description": "de-DE: y and Y",
     "shortcut": "Y"
   },
   {
     "baseName": "LEFT_BRACKET",
     "localeNames": ["DE_U_UMLAUT"],
     "isOverrideNames": true,
-    "description": "DE Locale: Û [U-umlaut]",
+    "description": "de-DE: Û [U-umlaut]",
     "shortcut": "ü",
     "symbol": "Û"
   },
@@ -53,21 +53,21 @@
     "baseName": "RIGHT_BRACKET",
     "localeNames": ["DE_PLUS"],
     "isOverrideNames": true,
-    "description": "DE Locale: + [Plus] and * [Star] and ~ [Tilde]",
+    "description": "de-DE: + [Plus] and * [Star] and ~ [Tilde]",
     "shortcut": "+"
   },
   {
     "baseName": "M",
     "localeNames": ["DE_M"],
     "isOverrideNames": true,
-    "description": "DE Locale: M and µ",
+    "description": "de-DE: m and M and µ",
     "shortcut": "M"
   },
   {
     "baseName": "SEMICOLON",
     "localeNames": ["DE_OE"],
     "isOverrideNames": true,
-    "description": "DE Locale: ö and Ö",
+    "description": "de-DE: ö and Ö",
     "shortcut": "ö",
     "symbol": "Ö"
   },
@@ -75,7 +75,7 @@
     "baseName": "SINGLE_QUOTE",
     "localeNames": ["DE_AE"],
     "isOverrideNames": true,
-    "description": "DE Locale: ä and Ä",
+    "description": "de-DE: ä and Ä",
     "shortcut": "ä",
     "symbol": "Ä"
   },
@@ -83,57 +83,49 @@
     "baseName": "BACKSLASH",
     "localeNames": ["DE_HASH", "DE_POUND"],
     "isOverrideNames": true,
-    "description": "DE Locale: # [Hash] and ' [Apostrophe]",
+    "description": "de-DE: # [Hash] and ' [Apostrophe]",
     "shortcut": "#"
   },
   {
     "baseName": "Y",
     "localeNames": ["DE_Z"],
     "isOverrideNames": true,
-    "description": "DE Locale: Z",
+    "description": "de-DE: z and Z",
     "shortcut": "Z"
   },
   {
     "baseName": "NON_US_BACKSLASH",
     "localeNames": ["DE_LESS_THAN","DE_LT"],
     "isOverrideNames": true,
-    "description": "DE Locale: < [Less than] and > [Greater than] and | [Pipe]",
+    "description": "de-DE: < [Less Than] and > [Greater Than] and | [Pipe]",
     "shortcut": "<"
   },
   {
     "baseName": "COMMA",
     "localeNames": ["DE_COMMA"],
     "isOverrideNames": true,
-    "description": "DE Locale: , [Comma] and ; [Semicolon]",
+    "description": "de-DE: , [Comma] and ; [Semicolon]",
     "shortcut": ","
   },
   {
     "baseName": "PERIOD",
     "localeNames": ["DE_PERIOD","DE_DOT"],
     "isOverrideNames": true,
-    "description": "DE Locale: . [Period] and : [Colon]",
+    "description": "de-DE: . [Period] and : [Colon]",
     "shortcut": "."
   },
   {
     "baseName": "SLASH",
     "localeNames": ["DE_MINUS"],
     "isOverrideNames": true,
-    "description": "DE Locale: - [Minus] and _ [Underscore]",
+    "description": "de-DE: - [Minus] and _ [Underscore]",
     "shortcut": "-"
-  },
-  {
-    "baseName": "SPACE",
-    "localeNames": ["DE_SPACE"],
-    "isOverrideNames": true,
-    "description": "DE Locale: Space",
-    "shortcut": " ",
-    "symbol": "DE_SPACE"
   },
   {
     "baseName": "RALT",
     "localeNames": ["DE_ALT_GR", "DE_ALT_GRAPH"],
     "isOverrideNames": false,
-    "description": "DE Locale: AltGr [AltGraph]",
+    "description": "de-DE: AltGr [AltGraph]",
     "symbol" : "AltGr"
   }
 ]
