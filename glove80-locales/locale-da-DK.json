@@ -1,0 +1,173 @@
+[
+  {
+    "baseName": "GRAVE",
+    "localeNames": ["DA_PARAGRAPH", "DA_SECTION"],
+    "isOverrideNames": true,
+    "description": "da-DK: § [Paragraph] and ½ [Half]",
+    "shortcut": "§"
+  },
+  {
+    "baseName": "MINUS",
+    "localeNames": ["DA_PLUS"],
+    "isOverrideNames": true,
+    "description": "da-DK: + [Plus] and ? [Question Mark]",
+    "shortcut": "+"
+  },
+  {
+    "baseName": "EQUAL",
+    "localeNames": ["DA_AIGU", "DA_ACUTE"],
+    "isOverrideNames": true,
+    "description": "da-DK: ´ [Aigu] and ` [Grave] and | [Pipe]",
+    "shortcut": "´"
+  },
+  {
+    "baseName": "E",
+    "localeNames": ["DA_E"],
+    "isOverrideNames": true,
+    "description": "da-DK: e and E and € [Euro]",
+    "shortcut": "E"
+  },
+  {
+    "baseName": "LEFT_BRACKET",
+    "localeNames": ["DA_AA"],
+    "isOverrideNames": true,
+    "description": "da-DK: å [aa] and Å [AA]",
+    "shortcut": "å",
+    "symbol": "Å"
+  },
+  {
+    "baseName": "RIGHT_BRACKET",
+    "localeNames": ["DA_UMLA"],
+    "isOverrideNames": true,
+    "description": "da-DK: ¨ [Umlaut] and ^ [Circonflex] and ~ [Tilde]",
+    "symbol": "¨"
+  },
+  {
+    "baseName": "SEMICOLON",
+    "localeNames": ["DA_AE"],
+    "isOverrideNames": true,
+    "description": "da-DK: æ [ae] and Æ [AE]",
+    "shortcut": "æ",
+    "symbol": "Æ"
+  },
+  {
+    "baseName": "SINGLE_QUOTE",
+    "localeNames": ["DA_OE"],
+    "isOverrideNames": true,
+    "description": "da-DK: ø [oe] and Ø [OE]",
+    "shortcut": "ø",
+    "symbol": "Ø"
+  },
+  {
+    "baseName": "BACKSLASH",
+    "localeNames": ["DA_APOS", "DA_SQT"],
+    "isOverrideNames": true,
+    "description": "da-DK: ' [Apostrophe] and * [Star]",
+    "shortcut": "'"
+  },
+  {
+    "baseName": "NON_US_BACKSLASH",
+    "localeNames": ["DA_LESS_THAN", "DA_LT"],
+    "isOverrideNames": true,
+    "description": "da-DK: < [Less Than] and > [Greater Than] and \\ [Backslash]",
+    "shortcut": "<"
+  },
+  {
+    "baseName": "COMMA",
+    "localeNames": ["DA_COMMA"],
+    "isOverrideNames": true,
+    "description": "da-DK: , [Comma] and ; [Semicolon]",
+    "shortcut": ","
+  },
+  {
+    "baseName": "PERIOD",
+    "localeNames": ["DA_PERIOD", "DA_DOT"],
+    "isOverrideNames": true,
+    "description": "da-DK: . [Period] and : [Colon]",
+    "shortcut": "."
+  },
+  {
+    "baseName": "SLASH",
+    "localeNames": ["DA_MINUS"],
+    "isOverrideNames": true,
+    "description": "da-DK: - [Minus] and _ [Underscore]",
+    "shortcut": "-"
+  },
+  {
+    "baseName": "RALT",
+    "localeNames": ["DA_ALT_GR", "DA_ALT_GRAPH"],
+    "isOverrideNames": false,
+    "description": "da-DK: AltGr [AltGraph]",
+    "symbol" : "AltGr"
+  },
+  {
+    "baseName": "N1",
+    "localeNames": ["DA_NUMBER_1", "DA_N1"],
+    "isOverrideNames": true,
+    "description": "da-DK: 1 and ! [Exclamation mark]",
+    "shortcut": "1"
+  },
+  {
+    "baseName": "N2",
+    "localeNames": ["DA_NUMBER_2", "DA_N2"],
+    "isOverrideNames": true,
+    "description": "da-DK: 2 and \" [Quote (Double)] and @ [At sign]",
+    "shortcut": "2"
+  },
+  {
+    "baseName": "N3",
+    "localeNames": ["DA_NUMBER_3", "DA_N3"],
+    "isOverrideNames": true,
+    "description": "da-DK: 3 and # [Hash] and £ [Pounds]",
+    "shortcut": "3"
+  },
+  {
+    "baseName": "N4",
+    "localeNames": ["DA_NUMBER_4", "DA_N4"],
+    "isOverrideNames": true,
+    "description": "da-DK: 4 and ¤ [Currency symbol] and $ [Dollars]",
+    "shortcut": "4"
+  },
+  {
+    "baseName": "N5",
+    "localeNames": ["DA_NUMBER_5", "DA_N5"],
+    "isOverrideNames": true,
+    "description": "da-DK: 5 and % [Percent]",
+    "shortcut": "5"
+  },
+  {
+    "baseName": "N6",
+    "localeNames": ["DA_NUMBER_6", "DA_N6"],
+    "isOverrideNames": true,
+    "description": "da-DK: 6 and & [Ampersand]",
+    "shortcut": "6"
+  },
+  {
+    "baseName": "N7",
+    "localeNames": ["DA_NUMBER_7", "DA_N7"],
+    "isOverrideNames": true,
+    "description": "da-DK: 7 and / [Forward slash] and { [Left brace]",
+    "shortcut": "7"
+  },
+  {
+    "baseName": "N8",
+    "localeNames": ["DA_NUMBER_8", "DA_N8"],
+    "isOverrideNames": true,
+    "description": "da-DK: 8 and ( [Left parenthesis] and [ [Left bracket]",
+    "shortcut": "8"
+  },
+  {
+    "baseName": "N9",
+    "localeNames": ["DA_NUMBER_9", "DA_N9"],
+    "isOverrideNames": true,
+    "description": "da-DK: 9 and ) [Right parenthesis] and ] [Right bracket]",
+    "shortcut": "9"
+  },
+  {
+    "baseName": "N0",
+    "localeNames": ["DA_NUMBER_0", "DA_N0"],
+    "isOverrideNames": true,
+    "description": "da-DK: 0 and = [Equals sign] and } [Right brace]",
+    "shortcut": "0"
+  }
+]
